@@ -1,10 +1,10 @@
 # Project Title: Serpentine Tug
 
-## Objective: Extract Heading and content from Markdown files.
 
-## Author: Abdulqadir Abuharrus <br> Date: 29/10/2023 <br>Version: 1.2
-
-___
+Objective: Extract Heading and content from Markdown files.
+- Author: Abdulqadir Abuharrus.
+- Date: 29/10/2023
+- Version: 1.2
 
 ## Purpose
 
@@ -26,7 +26,7 @@ and I took up the challenge as little fun project on the side.
 5. We need to preserve all white space, punctuation and other string formatting preexisting in the text, for the LLM to
    understand the data.
 6. The formatting of content within cells is irrelevant and has no effect on the quality of the input for the LLM, and
-   therefore the content can be <br> inserted as is into its designated cell without formatting,
+   therefore the content can be inserted as is into its designated cell without formatting,
    provided it's not over the limit.
 
 ## Remarks
